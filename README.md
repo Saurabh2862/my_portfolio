@@ -4,7 +4,7 @@ Welcome to the repository for my personal portfolio website! This repository con
 
 ## Live Website
 
-You can view my portfolio live by visiting [Portfolio Website](https://ritikbhardwajportfolio.netlify.app/).
+You can view my portfolio live by visiting 
 
 ## Overview
 
